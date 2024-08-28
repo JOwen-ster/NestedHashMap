@@ -1,2 +1,4 @@
 # NestedHashMap
-Custom data structure made by me to provide an in memory database like UX. Concept implemeneted into me and [@arrowse](https://github.com/arrowse) discord bot [ScrimBoard](discord.gg/4pyj6JSzuC)
+Custom data structure developed by me to provide an **__in-memory database__** like UX.
+
+- Concept implemented into me and [@arrowse](https://github.com/arrowse) Discord bot [ScrimBoard](discord.gg/4pyj6JSzuC)
